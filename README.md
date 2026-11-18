@@ -2,14 +2,14 @@
 
 **Technical Product Manager · AI Product Engineer** — Bariloche, Argentina 🇦🇷 · EU citizen 🇮🇹 · Open to remote
 
-I build AI products end to end: from the first conversation with users to the roadmap, the code and the deploy.
+I build AI products end to end: from the first conversation with users to the roadmap, the code and the deploy.<br>
 2 years leading product as PM/PO and 5 years writing code, so I can talk business with stakeholders and ship with the engineering team.
 
 ---
 
 ### 🤖 What I'm building now
 
-- **AI shopping assistant in production** — [thaskaandina.com.ar](https://thaskaandina.com.ar)
+- **AI shopping assistant in production** — [thaskaandina.com.ar](https://thaskaandina.com.ar)<br>
   Conversational advisor for an e-commerce store, built with the Vercel AI SDK: tool calling (3 tools), streaming responses and cost guardrails. I lead the project as PM and lead developer.
 - **Travel quoting agent with Claude** — automates building trip quotes in TravelCompositor through browser automation.
 - **Daily Instagram content agent with Claude** — prepares posts, captions and schedules every business day following brand guidelines.
@@ -25,10 +25,10 @@ I build AI products end to end: from the first conversation with users to the ro
 
 ### 🛠️ Stack
 
-**Product:** Agile (Scrum / Kanban) · Roadmaps · Backlog management · Jira · ClickUp · Notion
-**AI:** Claude · Vercel AI SDK · Tool calling · Agents · Prompt design
-**Code:** TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgreSQL · Prisma · Tailwind · Vitest
-**Infra:** Vercel · Git · REST APIs · Google Apps Script
+- **Product:** Agile (Scrum / Kanban) · Roadmaps · Backlog management · Jira · ClickUp · Notion
+- **AI:** Claude · Vercel AI SDK · Tool calling · Agents · Prompt design
+- **Code:** TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgreSQL · Prisma · Tailwind · Vitest
+- **Infra:** Vercel · Git · REST APIs · Google Apps Script
 
 ### 🎓 Education
 
