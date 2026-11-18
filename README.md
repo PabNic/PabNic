@@ -1,44 +1,42 @@
-# ¡Hola, soy Pablo! 👋
+# Hi, I'm Pablo 👋
 
-## Desarrollador Full Stack
+**Technical Product Manager · AI Product Engineer** — Bariloche, Argentina 🇦🇷 · EU citizen 🇮🇹 · Open to remote
 
-Soy un apasionado desarrollador Full Stack con una amplia experiencia en la creación de aplicaciones web. Mi enfoque principal es el desarrollo de soluciones escalables y eficientes utilizando tecnologías modernas.
+I build AI products end to end: from the first conversation with users to the roadmap, the code and the deploy.
+2 years leading product as PM/PO and 5 years writing code, so I can talk business with stakeholders and ship with the engineering team.
 
-## Características Personales
+---
 
-- **Comprometido:** Siempre me esfuerzo por entregar resultados excepcionales y cumplir con los plazos establecidos.
+### 🤖 What I'm building now
 
-- **Autodidacta:** Me encanta aprender y mantenerme al día con las últimas tendencias y tecnologías en el mundo del desarrollo web.
+- **AI shopping assistant in production** — [thaskaandina.com.ar](https://thaskaandina.com.ar)
+  Conversational advisor for an e-commerce store, built with the Vercel AI SDK: tool calling (3 tools), streaming responses and cost guardrails. I lead the project as PM and lead developer.
+- **Travel quoting agent with Claude** — automates building trip quotes in TravelCompositor through browser automation.
+- **Daily Instagram content agent with Claude** — prepares posts, captions and schedules every business day following brand guidelines.
 
-- **Trabajo en equipo:** Disfruto colaborar con otros desarrolladores y equipos multifuncionales, aportando mis habilidades y perspectivas para lograr objetivos comunes.
+### 💼 Experience
 
-- **Resolución de problemas:** Encuentro soluciones creativas y eficaces para desafíos técnicos complejos.
+| Role | Company | Period |
+|---|---|---|
+| Founder & CEO | PatagonLabs | 2024 – present |
+| Project Manager & Lead Developer | Thaska Andina | 2025 – present |
+| Product Owner / Project Manager | SnowRide | 2025 – present |
+| Full-Stack Developer & Team Coordinator | Nomad Locals | 2023 |
 
-- **Comunicación:** Tengo una comunicación clara y efectiva, lo que me permite entender los requisitos y expectativas del proyecto.
+### 🛠️ Stack
 
-## Tecnologías y Herramientas
+**Product:** Agile (Scrum / Kanban) · Roadmaps · Backlog management · Jira · ClickUp · Notion
+**AI:** Claude · Vercel AI SDK · Tool calling · Agents · Prompt design
+**Code:** TypeScript · JavaScript · React · Next.js · Node.js · Express · PostgreSQL · Prisma · Tailwind · Vitest
+**Infra:** Vercel · Git · REST APIs · Google Apps Script
 
-A continuación, algunas de las tecnologías y herramientas con las que trabajo:
+### 🎓 Education
 
-- JavaScript (ES6+)
-- React.js
-- Bootstrap
-- Tailwind CSS
-- Express.js
-- Sequelize
-- PostgreSQL
-- Git Flow
-- Postman
-- Y más...
+- Agile Project Management (PMI-ACP prep course) — UTN-FRBA, 2026
+- Full-Stack Web Development Bootcamp — Soy Henry
 
+### 📫 Contact
 
-## ¡Conéctate conmigo!
+[LinkedIn](https://www.linkedin.com/in/pablo-bottoni-3a5621255) · [Portfolio](https://pablobottoni.vercel.app) · polches@gmail.com
 
-¡Si estás interesado en contratar alguien en el campo de tecnología, no dudes en contactarme!
-
-- LinkedIn: [Pablo Bottoni](https://www.linkedin.com/in/pablo-bottoni-3a5621255)
-- Email: polches@gmail.com
-
-¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesantes mis proyectos y contribuciones. ¡Hagamos cosas increíbles juntos!
-
-
+🌎 Spanish (native) · English (C1) · Portuguese (professional)
